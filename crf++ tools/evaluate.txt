@@ -1,0 +1,3 @@
+precision:95.20%
+recall:96.02%
+F-score:95.61%
